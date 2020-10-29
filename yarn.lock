@@ -7938,10 +7938,10 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.1.tgz#5b3531bd76a645a4c9fb6e693ed36419e3301339"
   integrity sha512-NAnt2iGDXohE5LI7uBnLnqvLQMtzhkiAOLXTmv+qnF9Ky7xAPcX8Up/xWIhxvLVGJvuLiNc4xQLtuqDRzb4fSA==
 
-react-native-contact-list@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/react-native-contact-list/-/react-native-contact-list-0.2.0.tgz#7fb379d6b6002661280fac45f97ba3b303ce6ef0"
-  integrity sha512-+6L+HTQdbkH+rOsfGBFbnu+lMb9jkJGmgy4gbeoz2YYZh1Re7EKyO/90ZAbq6lgz9TpYy6a1NJvasl96JtnGMw==
+react-native-contact-list@^0.2.4:
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/react-native-contact-list/-/react-native-contact-list-0.2.4.tgz#a4dcf621a14a2018182b2ffa6e2d746cdb4c5800"
+  integrity sha512-XEdeV//98WiyfAEVfEuojuyxkgioh0djYH95+neYhzHsH0cGKiwDB3cC6eZVorrVpBlYHDuj6AwGI9pTNt67YA==
   dependencies:
     JSONStream "^1.3.5"
     abab "^2.0.5"
